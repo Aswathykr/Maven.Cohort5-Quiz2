@@ -1,7 +1,10 @@
 package com.zipcodewilmington.assessment2.part2;
 
+import java.lang.reflect.Array;
+
 public class ArrayUtility {
     public Integer[] merge(Integer[] array1, Integer[] array2) {
+
         return null;
     }
 
